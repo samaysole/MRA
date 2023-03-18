@@ -1,0 +1,33 @@
+.pageBtn {
+  background-color: aqua !important;
+  color: black;
+  margin: 0%;
+  width: 150px;
+  height: 50px;
+  border-radius: 32px;
+  box-shadow: 0px 0px 7px 15px #00ffff4d;
+}
+
+.pageBtn:hover {
+  background-color: #000000 !important;
+  color: #00ffff;
+  border: 3px solid #00ffff;
+}
+
+.pageBtnout {
+  background-color: #ff0000 !important;
+  box-shadow: 0px 0px 7px 15px #ff00004d;
+  color: #ffffff;
+  margin: 0%;
+  float: right;
+  width: 150px;
+  height: 50px;
+  border-radius: 32px;
+ 
+}
+.pageBtnout:hover {
+  box-shadow: 0px 0px 7px 15px #00ffff4d;
+  background-color: #00ffff !important;
+  color: #000000;
+  border: 3px solid #ff00004d;
+}

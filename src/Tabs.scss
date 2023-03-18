@@ -1,0 +1,289 @@
+
+
+  
+//   .container {
+//     display: flex;
+//     flex-direction: column;
+//     position: relative;
+//     // width: 100%;
+//     // height: 100%;
+//     // background: #f1f1f1;
+//     margin: 100px auto 0;
+//     word-break: break-all;
+//     border: 1px solid rgba(0, 0, 0, 0.274);
+//   }
+.small {
+  // color: #ffffff !important;
+  color: #000000 !important;
+  background-color: #ff0000 !important;
+  background-color: #00ffff !important;
+  width: 150px;
+  padding: 15px !important;
+  
+}
+.small:hover {
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00FFFF;
+}
+
+  .bloc-tabs {
+    display: flex;
+  
+  }
+
+  .bloc-tabs button {
+    background-color: #000000;
+    color: #ffffff;
+    // border-radius: 32px;
+  }
+
+  .tabs::before {
+    display: block;
+    position: absolute;
+    top: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: calc(100% + 1px);
+    height: 5px;
+    background:  rgb(255, 0, 0);
+  }
+
+  .bloc-tabs button:hover {
+    background-color: #00FFFF;
+    color: #000000;
+  }
+
+  .tabs  {
+  
+    padding: 15px;
+    text-align: center;
+    width: 20%;
+    background: rgba(128, 128, 128, 0.075);
+    cursor: pointer;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.274);
+    box-sizing: content-box;
+    position: relative;
+    outline: none;
+    margin-top: 120px  !important;
+    margin-left: 9% !important;
+    cursor: pointer;
+    font-size:  2 rem;
+    font-weight: 700;
+    font-size: var(--bs-body-font-size);
+  }
+  .tabs:not(:last-child){
+    border-right: 1px solid rgba(0, 0, 0, 0.274);
+  }
+  
+  .active-tabs  {
+    background: white;
+    border-bottom: 1px solid transparent;
+  }
+  
+  
+
+  .active-tabs::before {
+    content: "";
+    display: block;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: calc(95% + 1px);
+    height: 5px;
+    background: none;
+  }
+  
+  
+  button {
+    border: none;
+  }
+  .content-tabs {
+    flex-grow : 1;
+  }
+  .content {
+    background: white;
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+    display: none;
+  }
+  .content h2 {
+    padding: 0px 0 5px 0px;
+  }
+  
+  .content hr {
+    width: 100px;
+    height: 2px;
+    background: #222;
+    margin-bottom: 5px;
+  }
+  .content p {
+    width: 100%;
+    height: 100%;
+  }
+  .active-content {
+    display: block;
+  }
+
+  .btn-rent{
+    margin-Top: 5%;
+    margin-Bottom: 0%;
+    border-Radius: 10px;
+    width: 200px;
+    height: 70px;
+    margin-Bottom: 20px;
+    border-Radius: 30px;
+    color: #000000;
+    background-color: #24a0ed;
+  }
+
+
+  .btn-rent a:hover {
+    color: #000000;
+  }
+
+  .btn-mov {
+    margin-Top: 10%;
+    margin-Bottom: 0%;
+    border-Radius: 10px;
+    width: 200px;
+    height: 70px;
+    margin-Bottom: 20px;
+    border-Radius: 30px;
+    color: #000000;
+    background-color: #00FFFF !important;
+    cursor: pointer;
+    font-size:  1.5rem;
+    font-weight: 700;
+    font-size: var(--bs-body-font-size);
+
+ }
+
+ .btn-mov a {
+  color: #000000; 
+  font-family: round($number: 0);
+ }
+
+ .btn-mov:hover {
+    color: #ffffff !important ;
+    background-color: #000000 !important;
+
+ }
+
+ .btn-mov a:hover {
+  color: #ffffff !important 
+
+}
+
+ .btn-cus {
+  margin-Top: 5%;
+  margin-Bottom: 0%;
+  border-Radius: 10px;
+  width: 200px;
+  height: 70px;
+  margin-Bottom: 20px;
+  border-Radius: 30px;
+  color: #000000;
+  background-color: #24a0ed;
+ }
+
+ .btn-cus a:hover {
+  color: #000000;
+ }
+
+  .btn-cus {
+    color: #FFFFFF;
+    background-color: #24a0ed;
+  }
+
+
+  .mov-update {
+    background-color: #000000;
+    text-Align: center;
+    padding: 10px;
+    height: 50px;
+    width: 150px;
+    border-Radius: 10px;
+    margin: 5% 5%; 
+  }
+
+  .mov-update:hover {
+    color: #00FFFF;
+    background-color: #000000 !important;
+  }
+
+  .btn-mov{
+    color: #FFFFFF;
+    background-color: #24a0ed;
+  }
+
+ 
+  .btn-return:hover {
+    color: #000000;
+    background-color: #ffffff;
+  }
+
+  .mov-update:hover {
+    background-color: #00FFFF;
+    color: #000000; 
+  }
+ 
+  .delete {
+    color: #FFFFFF;
+    background-color: #ff0000;
+    text-Align: center;
+    padding: 10px;
+    height: 50px;
+    width: 150px;
+    border-Radius: 10px;
+    margin: 5% 5%; 
+  
+  }
+
+  .delete:hover {
+    color: #000000;
+    background-color: #ff0000 !important;
+  }
+
+  .cancel a:hover {
+    color: #000000 !important; 
+  }
+
+  [data-tab-content] {
+    display: none;
+  }
+
+
+  .active[data-tab-content] {
+    display: block;
+  }
+
+.tabss {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  padding: 0%;
+  margin: 10%;
+  border-bottom: 1px solid black;
+}
+
+.active_tab {
+background-color: #00FFFF;
+}
+
+.tab {
+cursor: pointer;
+padding: 10px;
+}
+
+.tab:hover {
+  background-color: rgb(255, 0, 0);
+}
