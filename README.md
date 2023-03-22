@@ -4,7 +4,7 @@
 <p align="center">
   <img width="500" height="500" src="https://user-images.githubusercontent.com/85625481/227052121-1dc59e20-c004-40e7-a23e-dcd698136a5c.jpeg">
 </p>
-<h2 align="center" style="font-size:40px;"> My Music, My Playlist, My Choice… </h2>           
+<h2 align="center" style="font-size:40px;"> “My movie, pop corn, Chips...  </h2>           
 
 **MRA** is created to explore movies and also it helps to rent.
 
