@@ -1,9 +1,8 @@
                                                      
- <h1 align="center" style="font-size:80px;"> :drum: MRA :guitar:</h1>
+ <h1 align="center" style="font-size:80px;"> 🎥 MRA 🍿</h1>
 
 <p align="center">
-  <img width="500" height="500" src="![logo](https://user-images.githubusercontent.com/85625481/227052121-1dc59e20-c004-40e7-a23e-dcd698136a5c.jpeg)
- ">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/85625481/227052121-1dc59e20-c004-40e7-a23e-dcd698136a5c.jpeg">
 </p>
 <h2 align="center" style="font-size:40px;"> My Music, My Playlist, My Choice… </h2>           
 
@@ -21,7 +20,7 @@ MRA - Movie Rental App was born out of need to explore movies of different catag
 ## Technologies used :wrench:
 
 - [REACT.js](https://react.dev/)
-- [SCSS] (https://sass-lang.com/)
+- [SCSS](https://sass-lang.com/)
 - [Express.js](https://expressjs.com/es/)
 - [Bootstrap](https://getbootstrap.com/)
 - [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction)
