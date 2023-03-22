@@ -2,14 +2,15 @@
  <h1 align="center" style="font-size:80px;"> :drum: MRA :guitar:</h1>
 
 <p align="center">
-  <img width="500" height="500" src="">
+  <img width="500" height="500" src="![logo](https://user-images.githubusercontent.com/85625481/227052121-1dc59e20-c004-40e7-a23e-dcd698136a5c.jpeg)
+ ">
 </p>
 <h2 align="center" style="font-size:40px;"> My Music, My Playlist, My Choice… </h2>           
 
 **MRA** is created to explore movies and also it helps to rent.
 
 💡 I would say that film is vital to society. We’ve all watched movies or comedy programs such as The Simpsons, South Park, and Family Guy. Yes, these are fictional shows, but they can be influential to some people. They have pushed the envelope of what is acceptable in television, and many people worldwide love them. But I think film is so vital to society because it gives us a chance to reflect on our own lives and the lives of others who are different and can offer us a new perspective on life. [BY - Paul Jenkins](https://brilliantio.com/) 
-## Team :wave:
+## Made By :wave:
 
 * Samuel Solomon - [GitHub](https://github.com/samaysole)
 
@@ -31,7 +32,7 @@ Follow the next steps in the following order:
 
 1. Fork the repository
 2. Install 12.x.x and npm 6.x.x
-3. Go to Fontend folder, install packages with `npm install` and run with `npm start`
+3. Inside the current directry install the requred packages with `npm install` and run with `npm start`
 4. Enjoy.
 ## Preview
 
