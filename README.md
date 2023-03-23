@@ -34,7 +34,9 @@ Follow the next steps in the following order:
 3. Inside the current directry install the requred packages with `npm install` and run with `npm start`
 4. Enjoy.
 ## Preview
+Demo Preview can be found here 👉 [Youtube](https://youtu.be/A0iaPjm_V6c)
 
+https://user-images.githubusercontent.com/85625481/227281756-c99c3589-3855-4bdd-b0b8-79caad03f8ce.mp4
 
 
 ## Contributing :raised_hands:
